@@ -1,14 +1,19 @@
 <div align="center">
 
-# TheHawk
+# Alexéy Shishkin (TheHawk)
 
-**Software Development • Systems Engineering • Hardware Diagnostics**
+**Computer Science Student based in Gothenburg, Sweden**  
+Founder & Lead Developer at [DiamTek](https://github.com/DiamTek)  
+*Software Development • Systems Engineering • Hardware Diagnostics*
 
 <p align="center">
   <a href="https://github.com/TheHawk09">
-    <img src="https://img.shields.io/github/followers/TheHawk09?label=Followers&style=flat-square&color=2563EB" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/TheHawk09?label=Followers&style=flat&color=2563EB" alt="GitHub Followers" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Precision%20%26%20QA-00C7B7?style=flat-square" alt="Focus: Precision and QA" />
+  <a href="https://github.com/DiamTek" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/DiamTek-Demand%20Precision%2C%20Deliver%20Excellence-0052CC?style=flat" alt="DiamTek: Demand Precision, Deliver Excellence" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Precision%20%26%20QA-00C7B7?style=flat" alt="Focus: Precision and QA" />
 </p>
 
 <p align="center">
@@ -29,6 +34,8 @@
 
 ### About
 
+- **Location & Studies:** Computer Science student based in Gothenburg, Sweden
+- **Organization:** Founder & Lead Developer at [DiamTek](https://github.com/DiamTek) — *Demand Precision, Deliver Excellence*
 - **Building:** Systems tools, web platforms, and hardware integrations
 - **Core Focus:** Fullstack development, diagnostic scripting, and system optimization
 - **Interests:** High-precision engineering, automotive software, low-level testing
