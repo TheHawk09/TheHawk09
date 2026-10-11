@@ -23,7 +23,7 @@ Founder & Lead Developer at [DiamTek](https://github.com/DiamTek)
   <a href="mailto:salexey09@gmail.com">
     <img src="https://static.wikia.nocookie.net/logopedia/images/c/ca/Gmail2026.svg/revision/latest?cb=20260519214227" width="40" height="40" alt="Email" />
   </a>
-  <a href="https://discord.com/users/TheHawk01" target="_blank" rel="noreferrer">
+  <a href="https://discord.com/users/thehawk01" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" />
   </a>
 </p>
