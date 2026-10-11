@@ -31,7 +31,7 @@
     <td width="33%">
       <p align="center">
         <a href="https://www.google.com/chrome/canary/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Chrome-canary-logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="36" height="36" alt="Chrome Canary" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Chrome-canary-logo.svg" width="36" height="36" alt="Chrome Canary" />
         </a>
         <br />
         <strong>Chrome Canary</strong>
@@ -59,7 +59,7 @@
     <td width="33%">
       <p align="center">
         <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg?utm_source=sv.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" width="36" height="36" alt="Gemini" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg" width="36" height="36" alt="Gemini" />
         </a>
         <br />
         <strong>Gemini AI</strong>
