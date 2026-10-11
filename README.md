@@ -191,10 +191,6 @@ Founder & Lead Developer at [DiamTek](https://github.com/DiamTek)
 ### GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheHawk09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="TheHawk09 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHawk09&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHawk09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="TheHawk09 GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHawk09&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak Stats" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHawk09&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
