@@ -11,6 +11,18 @@
   <img src="https://img.shields.io/badge/Focus-Precision%20%26%20QA-00C7B7?style=flat-square" alt="Focus: Precision and QA" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexéy-shishkin/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:salexey09@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/TheHawk01" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" />
+  </a>
+</p>
+
 </div>
 
 ---
@@ -21,6 +33,30 @@
 - **Core Focus:** Fullstack development, diagnostic scripting, and system optimization
 - **Interests:** High-precision engineering, automotive software, low-level testing
 - **Specializations:** C++, React, TypeScript, Java, Windows Batch scripting, quality assurance
+
+---
+
+### Operating Systems
+
+#### Daily Driver
+<p align="left">
+  <a href="https://learn.microsoft.com/windows/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows 11" />
+  </a>
+</p>
+
+- Custom debloated Windows 11 installation
+- Prior experience with Windows 10 and Windows 7
+
+#### Target Distributions to Explore
+<p align="left">
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="Arch Linux" />
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" />
+  </a>
+</p>
 
 ---
 
@@ -91,6 +127,9 @@
   <a href="https://dev.java/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+  </a>
   <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="Batch Script" />
   </a>
@@ -104,6 +143,18 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
+  </a>
   <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code Insiders" />
   </a>
@@ -111,6 +162,9 @@
 
 #### Currently Learning
 <p align="left">
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+  </a>
   <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
   </a>
