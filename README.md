@@ -176,7 +176,7 @@ A native, dependency-free Java Version Manager designed specifically for Windows
     <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA (Index-locked startup and a CPU heater)" />
   </a>
   <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code Insiders" title="VS Code Insiders (An Electron web browser disguised as an editor)" />
+    <img src="https://code.visualstudio.com/assets/branding/insiders-logo.png" width="48" height="48" alt="VS Code Insiders" title="VS Code Insiders (An Electron web browser disguised as an editor, but buggier)" />
   </a>
 </p>
 
