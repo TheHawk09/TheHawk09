@@ -178,6 +178,9 @@ A native, dependency-free Java Version Manager designed specifically for Windows
   <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
     <img src="https://code.visualstudio.com/assets/branding/insiders-logo.png" width="48" height="48" alt="VS Code Insiders" title="VS Code Insiders (An Electron web browser disguised as an editor, but buggier)" />
   </a>
+  <a href="https://visualstudio.microsoft.com/insiders/" target="_blank" rel="noreferrer">
+    <img src="https://static.wikia.nocookie.net/logopedia/images/7/71/Visual_Studio_2026_%28Insider%29_Icon.png/revision/latest/scale-to-width-down/250?cb=20250923183108" width="48" height="48" alt="Visual Studio 2026 Insiders" title="Visual Studio 2026 Insiders (A 60GB disk sacrifice that turns your CPU into an oven before failing to load a .sln)" />
+  </a>
 </p>
 
 #### Currently Learning
