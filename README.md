@@ -135,14 +135,23 @@ A native, dependency-free Java Version Manager designed specifically for Windows
 
 #### Languages & Core Technologies
 <p align="left">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++ (Manual memory corruption and 8-page template error messages)" />
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript (Adding 400 types just to pass undefined at runtime)" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript (A 10-day hack from 1995 that turned into 200MB node_modules and runtime Stockholm syndrome)" />
+  </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React (Re-rendering your entire DOM tree because a boolean blinked)" />
+  </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" title="Vite (Building your app in 2ms so you can debug it for 5 hours)" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML (Glorified markup that pretends to be a programming language)" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS (Spamming !important and z-index: 999999 until the layout stops having a seizure)" />
   </a>
   <a href="https://dev.java/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java (AbstractSingletonProxyFactoryBean and 4GB RAM to print Hello World)" />
@@ -150,11 +159,11 @@ A native, dependency-free Java Version Manager designed specifically for Windows
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" title="Python (Slow runtime disguised as readable syntax with 4 broken venvs)" />
   </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++ (Manual memory corruption and 8-page template error messages)" />
+  </a>
   <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="Batch Script" title="Batch (Ancient runes from 1981 held together by delayed expansion and prayers)" />
-  </a>
-  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" title="Vite (Building your app in 2ms so you can debug it for 5 hours)" />
   </a>
 </p>
 
