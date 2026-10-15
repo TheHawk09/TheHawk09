@@ -226,4 +226,4 @@ A native, dependency-free Java Version Manager designed specifically for Windows
 
 - **Systems & Fullstack:** Tooling initiatives, automated triage frameworks, and high-performance applications
 - **QA & Bug Bounties:** Deep-dive triage, reproducing race conditions, and structured reporting
-- **Contact:** [salexey09@gmail.com](mailto:salexey09@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alexéy-shishkin/)
+- **Contact:** [salexey09@gmail.com](mailto:salexey09@gmail.com) • [Discord](https://discord.com/users/TheHawk01) • [LinkedIn](https://www.linkedin.com/in/alexéy-shishkin/)
